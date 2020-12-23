@@ -1,4 +1,4 @@
-# GameProject
+# Capstone
 
 These sources were used to create an Action RPG game, and here I will cover the description of the character sources I wrote.
 
